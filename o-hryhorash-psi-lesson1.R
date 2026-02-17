@@ -22,7 +22,7 @@ ocena_kredytowa <- function(dochod, zadluzenie) {
   }
 }
 
-# Testy
 ocena_kredytowa(10000, 2000)
 ocena_kredytowa(10000, 4000)
 ocena_kredytowa(10000, 6000)
+
